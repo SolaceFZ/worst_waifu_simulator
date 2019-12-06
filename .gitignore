@@ -1,0 +1,4 @@
+README.txt
+
+# Ignore Node dependency folder cause it's too big and annoying to add.
+node_modules/
